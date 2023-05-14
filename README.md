@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 
 - HTML/CSS
 - JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Git
+-php
+-python/django
 
 ## Projects
 
